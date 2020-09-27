@@ -2,6 +2,10 @@ body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldse
     margin: 0; padding: 0; border: 0;
 }
 
+@font-face {
+    font-family:'Inter';
+    src: url('fonts/Inter-Regular-slnt=0.ttf') format('opentype');
+}
 * {
     box-sizing: border-box;
   }
@@ -19,6 +23,11 @@ body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldse
     font-size: 40px;
     text-align: center;
     background: white;
+  }
+
+  .header {
+    
+
   }
   
   /* Create two unequal columns that floats next to each other */
