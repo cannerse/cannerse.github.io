@@ -26,7 +26,10 @@ body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldse
   }
 
   .header {
-    
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background: white;
 
   }
   
